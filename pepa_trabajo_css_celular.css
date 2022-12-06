@@ -1,0 +1,69 @@
+@media (max-width:700px) {
+	
+	*{
+		box-sizing: border-box;
+	}
+	
+	
+div#caja_uno {
+	background-color: aquamarine;
+	width: 80%;
+	height: 50px;
+	margin: auto;
+}
+div#caja_dos {
+	background-color: darkslategrey;
+	width: 80%;
+	height: 200px;
+	margin: auto;
+}
+div#caja_tres {
+	background-color: antiquewhite;
+	width: 100%;
+	height: 400px;
+	margin: auto;
+	padding: 50px;
+	
+}
+div#a {
+	background-color:darkseagreen;
+	width: 30%;
+	height: 100px;
+	margin: auto;
+}
+div#b {
+	background-color: aquamarine;
+	width: 30%;
+	height: 100px;
+	margin: auto;
+}
+div#c {
+	background-color:darkslateblue;
+	width: 30%;
+	height: 100px;
+	margin: auto;
+}
+div#caja_cuatro {
+	background-color: darkseagreen;
+	width: 100%;
+	height: 100px;
+}
+div#caja_cinco {
+	background-color: darkslategray;
+	width: 100%;
+	height: 100px;
+}
+div#g {
+	background-color: darkgray;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	margin: auto;
+}
+div#caja_seis {
+	background-color: antiquewhite;
+	width: 100%;
+	height: 100px;
+	
+}
+	}
